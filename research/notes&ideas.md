@@ -10,6 +10,20 @@ Another strategy might be to couple on-the-fly at an object. The advantage is th
 
 - Assign another object to an agent immediately after it is done with one object.
 
+## Share Latex for the Thesis
+
+- [ShareLatex](https://sharelatex01.ca.hrz.tu-darmstadt.de/ldap/login)
+
+## New referencs to read
+
+- [Formulations and algorithms for the Pickup and Delivery Traveling Salesman Problem with Multiple Stacks](https://doi.org/10.1016/j.cor.2018.01.005)
+- [An algorithm for the traveling salesman problem with pickup and delivery customers](https://doi.org/10.1016/0377-2217(85)90257-7)
+- [Procedures for travelling salesman problems with additional constraints](https://doi.org/10.1016/0377-2217(79)90099-7)
+
+## Stuff to search
+- Assymetric TSP
+
+
 # Ideas
 
 ## TSP with in-between transportation 
