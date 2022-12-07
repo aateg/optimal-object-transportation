@@ -7,6 +7,8 @@ All the cases are for Multivehicle Pickup Delivery Problem
 - Each drone can carry a single object
 - All objects are equaly weighted
 - Where are the drones located in the beginning?
+- Paired vehicle case
+- Static PDP
 
 # 2. Increased capacity of drones
 
